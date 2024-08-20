@@ -4,10 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "dev": "nodemon index.js",
-    "assign7": "node assign7.js",
-    "assign": "nodemon assign7.js"
+    "start": "node assign7.js",
+    "dev": "nodemon assign7.js"
   },
   "author": "Sterux",
   "license": "ISC",
